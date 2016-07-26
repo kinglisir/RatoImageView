@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  
+    <declare-styleable name="RatioimageView">
+        <!-- 开始是否打开摄像头 -->
+        <attr name="ratio" format="float" />
+       
+    </declare-styleable>
+</resources>
