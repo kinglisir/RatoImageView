@@ -8,7 +8,7 @@ import android.widget.ImageView;
  * @author Administrator
  *
  */
-public class RatoimageView extends ImageView {
+public class RatoimageView extends ImageView { 
 	//¶¨Áx Œ’¸ß±È
 	private  float ratio = 0f;
 	public RatoimageView(Context context, AttributeSet attrs, int defStyleAttr) {
